@@ -1,6 +1,8 @@
 Pour compiler ce projet, l'instrustion est :
-mvn compile
+- mvn compile
+
 Pour générer un javadoc :
-mvn javadoc:javadoc
+- mvn javadoc:javadoc
+
 Pour executer :
-mvn exec:java -Dexec.mainClass="ProgrammeEtudiant"
+- mvn exec:java -Dexec.mainClass="ProgrammeEtudiant"
